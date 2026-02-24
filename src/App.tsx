@@ -4,7 +4,7 @@ import omniLogo from './assets/Omni-Logo-No-BG.png'
 
 type Language = 'en' | 'pt'
 
-const CONTACT_URL = 'mailto:hello@omni.ai'
+const CONTACT_URL = 'https://wa.me/5545998625469'
 const LOGO_ALT = 'Omni logo'
 
 const copy: Record<Language, Record<string, string>> = {
