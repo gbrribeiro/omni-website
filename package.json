@@ -2,7 +2,7 @@
   "name": "omni-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gbrribeiro.github.io/omni-website/",
+  "homepage": "https://site.omni-tech.info",
   "type": "module",
   "scripts": {
     "dev": "vite",
